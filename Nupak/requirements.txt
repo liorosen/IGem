@@ -1,0 +1,11 @@
+# Install NUPACK separately from your local NUPACK wheel/package.
+jupyter
+nbconvert
+nbformat
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+forgi
+RNAvigate
