@@ -1,0 +1,7 @@
+ViennaRNA>=2.7
+forgi
+jupyter
+matplotlib
+numpy
+pandas
+seaborn
